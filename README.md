@@ -1,4 +1,4 @@
-# TestRepo
+# CS271
 Five topics related to computing that interest me:
 1.	Robotics
 2.	Game Design
